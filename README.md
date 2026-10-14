@@ -1,7 +1,7 @@
-# Hello, my friend!
+# Приветствую в своём профиле!
 <html>
   <body>
-    <p style="text-allign: center">
+    <p tyle="text-align: center;>
       Вот, что я могу:
     </p>
   </body>
