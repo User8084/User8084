@@ -1,6 +1,6 @@
 # Hello, my friend!
 
-<img src="https://msiter.ru/sites/default/files/fields/node.article.field_feed_image/2025-07/_cover-markdown.jpg" alt="Альтернативный текст" width="60" height="50">
+<img src="https://msiter.ru/sites/default/files/fields/node.article.field_feed_image/2025-07/_cover-markdown.jpg" alt="Альтернативный текст" width="60" height="60">
 
 
 
