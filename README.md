@@ -1,9 +1,7 @@
 # Приветствую в своём профиле!
 <html>
   <body>
-    <p tyle="text-align: center;>
-      Вот, что я могу:
-    </p>
+    <p style="text-align: center;">Этот текст будет по центру!</p>
   </body>
 </html>
 <img src="https://msiter.ru/sites/default/files/fields/node.article.field_feed_image/2025-07/_cover-markdown.jpg" alt="Markdown" width="75" height="50">
