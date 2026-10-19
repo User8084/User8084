@@ -7,8 +7,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Github](https://img.shields.io/badge/github-repo-blue?logo=github)
-![](https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=#0077FF&logoColor=white)
+
 
 ## _Мои планы:_
 1. Запланировать их
@@ -16,4 +15,4 @@
 3. Выложить ещё что-то в своём профиле Steam
 
 #### _Ссылки на соц сети:_
-##### https://vk.ru/id646987008
+##### ![Vk](https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=#0077FF&logoColor=white) https://vk.ru/id646987008
