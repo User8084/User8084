@@ -15,4 +15,4 @@
 3. Выложить ещё что-то в своём профиле Steam
 
 #### _Ссылки на соц сети:_
-##### ![Vk](https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=#0077FF&logoColor=white) https://vk.ru/id646987008
+### ![Vk](https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=#0077FF&logoColor=white) https://vk.ru/id646987008
